@@ -13,8 +13,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/aora.git
-cd aora
+git clone https://github.com/teraitea987/react-native-boilerplate.git
 ```
 **Installation**
 
